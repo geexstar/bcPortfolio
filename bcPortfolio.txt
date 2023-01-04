@@ -1,2 +1,2 @@
-hey this is a test
+Welcome to Braden Clark's portfolio, I will be updating this repo mainly containing many of my small python, javascript, .sh, and html projects, as well as some more interesting things I have created! Thanks for visiting.
 
